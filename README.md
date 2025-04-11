@@ -195,7 +195,7 @@ Chinook Sample Database: Available on GitHub
 
 
 
- Section 4: Excel (Online Retail Dataset – UCI)
+ #Section 4: Excel (Online Retail Dataset – UCI)
 🎯 Objective
 In this section, we explore Excel-based data analysis using the Online Retail Dataset from UCI. The goal is to clean the dataset, generate useful summaries using Pivot Tables, apply formulas for metrics, and use visual tools for insight generation.
 
